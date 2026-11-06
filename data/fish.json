@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "sea-bass",
+    "name": "Black sea bass",
+    "scientificName": "Centropristis striata",
+    "tagline": "Delicate, clean, lightly sweet.",
+    "color": "#729dba",
+    "shape": "fish",
+    "richness": 1,
+    "texture": "Delicate flakes",
+    "cook": "Pan roast",
+    "pairings": [
+      "Lemon",
+      "Olive oil",
+      "Parsley"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Pots, traps, or hook and line",
+    "sustainability": "Good choice",
+    "sustainabilityNote": "Often a strong regional choice when caught with lower-impact gear; confirm origin and method.",
+    "kind": "Fish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          5,
+          6,
+          10,
+          11
+        ],
+        "available": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/black-sea-bass",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "GULF_SOUTH": {
+        "peak": [
+          5,
+          6,
+          10,
+          11
+        ],
+        "available": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/black-sea-bass",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "scallop",
+    "name": "Sea scallop",
+    "scientificName": "Placopecten magellanicus",
+    "tagline": "Sweet, tender, and ocean-bright.",
+    "color": "#d496a1",
+    "shape": "shell",
+    "richness": 2,
+    "texture": "Tender & sweet",
+    "cook": "Sear",
+    "pairings": [
+      "Brown butter",
+      "Lemon",
+      "Chives"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Dredge or diver harvested",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Impact changes substantially by harvest area and method. Ask whether they are diver caught or from a managed fishery.",
+    "kind": "Shellfish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/atlantic-sea-scallop",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "monkfish",
+    "name": "Monkfish",
+    "scientificName": "Lophius americanus",
+    "tagline": "Firm, mild, and pleasantly meaty.",
+    "color": "#a7a16b",
+    "shape": "angler",
+    "richness": 1,
+    "texture": "Firm & meaty",
+    "cook": "Roast",
+    "pairings": [
+      "Tomato",
+      "Olive oil",
+      "Thyme"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Trawl or gillnet",
+    "sustainability": "Ask your fishmonger",
+    "sustainabilityNote": "Bycatch and gear impact can vary. Ask where and how it was caught.",
+    "kind": "Fish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.fisheries.noaa.gov/permit/monkfish",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "flounder",
+    "name": "Summer flounder",
+    "scientificName": "Paralichthys dentatus",
+    "tagline": "Fine flakes with a gentle sweetness.",
+    "color": "#b8a379",
+    "shape": "flat",
+    "richness": 1,
+    "texture": "Fine & delicate",
+    "cook": "Pan fry",
+    "pairings": [
+      "Lemon",
+      "Butter",
+      "Capers"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Trawl or hook and line",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Management and gear differ by region. Local hook-and-line catches may reduce habitat impact.",
+    "kind": "Fish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          6,
+          7,
+          8
+        ],
+        "available": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/summer-flounder",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "GULF_SOUTH": {
+        "peak": [
+          6,
+          7,
+          8
+        ],
+        "available": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/summer-flounder",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "cod",
+    "name": "Atlantic cod",
+    "scientificName": "Gadus morhua",
+    "tagline": "Large flakes and a clean, mild finish.",
+    "color": "#8aa899",
+    "shape": "fish",
+    "richness": 1,
+    "texture": "Large flakes",
+    "cook": "Bake",
+    "pairings": [
+      "Potato",
+      "Olive oil",
+      "Parsley"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Hook and line, gillnet, or trawl",
+    "sustainability": "Ask your fishmonger",
+    "sustainabilityNote": "Stock status varies sharply by area. Origin is essential when evaluating Atlantic cod.",
+    "kind": "Fish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          11,
+          12,
+          1,
+          2
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/atlantic-cod/management",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "haddock",
+    "name": "Haddock",
+    "scientificName": "Melanogrammus aeglefinus",
+    "tagline": "Clean, lean, and gently sweet.",
+    "color": "#9aa9a0",
+    "shape": "fish",
+    "richness": 1,
+    "texture": "Fine flakes",
+    "cook": "Bake",
+    "pairings": [
+      "Lemon",
+      "Breadcrumbs",
+      "Parsley"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Trawl, longline, or hook and line",
+    "sustainability": "Ask your fishmonger",
+    "sustainabilityNote": "U.S. Georges Bank and Gulf of Maine haddock are the preferred regional source; ask for origin and method.",
+    "kind": "Fish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/cod-and-haddock-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "salmon",
+    "name": "Chinook salmon",
+    "scientificName": "Oncorhynchus tshawytscha",
+    "tagline": "Silky texture with full, rich flavor.",
+    "color": "#d79383",
+    "shape": "fish",
+    "richness": 3,
+    "texture": "Silky & rich",
+    "cook": "Roast",
+    "pairings": [
+      "Lemon",
+      "Dill",
+      "Mustard"
+    ],
+    "sourceType": "Mixed",
+    "harvestMethod": "Troll, net, or aquaculture",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Wild and farmed options have different tradeoffs. Look for a specific origin, fishery, and farming system.",
+    "kind": "Fish",
+    "regions": {
+      "PNW_AK": {
+        "peak": [
+          5,
+          6,
+          7
+        ],
+        "available": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/chinook-salmon",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "CA_BAJA": {
+        "peak": [
+          5,
+          6,
+          7
+        ],
+        "available": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/chinook-salmon",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "JP_SEAS": {
+        "peak": [
+          5,
+          6,
+          7
+        ],
+        "available": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/chinook-salmon",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "halibut",
+    "name": "Pacific halibut",
+    "scientificName": "Hippoglossus stenolepis",
+    "tagline": "Lean, firm, and gently sweet.",
+    "color": "#879d89",
+    "shape": "flat",
+    "richness": 1,
+    "texture": "Firm flakes",
+    "cook": "Roast",
+    "pairings": [
+      "Butter",
+      "Lemon",
+      "Tarragon"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Longline",
+    "sustainability": "Good choice",
+    "sustainabilityNote": "Well-managed North Pacific fisheries are often preferred; confirm the catch area.",
+    "kind": "Fish",
+    "regions": {
+      "PNW_AK": {
+        "peak": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "available": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/pacific-halibut",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "yellowtail",
+    "name": "Yellowtail",
+    "scientificName": "Seriola quinqueradiata",
+    "tagline": "Rich, firm, and clean tasting.",
+    "color": "#c5ae59",
+    "shape": "fish",
+    "richness": 3,
+    "texture": "Firm & rich",
+    "cook": "Grill",
+    "pairings": [
+      "Ginger",
+      "Soy sauce",
+      "Citrus"
+    ],
+    "sourceType": "Farm raised",
+    "harvestMethod": "Marine net pens",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Feed, stocking density, escapes, and farm practices differ. Seek transparent farm information.",
+    "kind": "Fish",
+    "regions": {
+      "JP_SEAS": {
+        "peak": [
+          12,
+          1,
+          2
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          10,
+          11,
+          12
+        ],
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "prawn",
+    "name": "Spot prawn",
+    "scientificName": "Pandalus platyceros",
+    "tagline": "Springy texture and natural sweetness.",
+    "color": "#d6957e",
+    "shape": "prawn",
+    "richness": 1,
+    "texture": "Springy & sweet",
+    "cook": "Sauté",
+    "pairings": [
+      "Garlic",
+      "Butter",
+      "Lemon"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Traps",
+    "sustainability": "Good choice",
+    "sustainabilityNote": "Trap fisheries can be highly selective. Confirm the harvest area and local season.",
+    "kind": "Shellfish",
+    "regions": {
+      "PNW_AK": {
+        "peak": [
+          4,
+          5,
+          6
+        ],
+        "available": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "CA_BAJA": {
+        "peak": [
+          4,
+          5,
+          6
+        ],
+        "available": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "snapper",
+    "name": "Red snapper",
+    "scientificName": "Lutjanus campechanus",
+    "tagline": "Firm flakes with a nutty sweetness.",
+    "color": "#cc8181",
+    "shape": "fish",
+    "richness": 2,
+    "texture": "Firm flakes",
+    "cook": "Bake",
+    "pairings": [
+      "Lime",
+      "Olive oil",
+      "Cilantro"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Hook and line",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Management has improved in some fisheries, but origin and catch method still matter.",
+    "kind": "Fish",
+    "regions": {
+      "GULF_SOUTH": {
+        "peak": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.fisheries.noaa.gov/species/red-snapper",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "pollock",
+    "name": "Alaska pollock",
+    "scientificName": "Gadus chalcogrammus",
+    "tagline": "Lean, mild, and clean.",
+    "color": "#8c9fac",
+    "shape": "fish",
+    "richness": 1,
+    "texture": "Fine flakes",
+    "cook": "Steam",
+    "pairings": [
+      "Lemon",
+      "Dill",
+      "Cabbage"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Midwater trawl",
+    "sustainability": "Good choice",
+    "sustainabilityNote": "Prefer Alaska or U.S. sources and ask for the fishery; avoid unlabeled imported pollock.",
+    "kind": "Fish",
+    "regions": {
+      "PNW_AK": {
+        "peak": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/pollock-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "mahi",
+    "name": "Mahi mahi",
+    "scientificName": "Coryphaena hippurus",
+    "tagline": "Firm, bright, and lightly sweet.",
+    "color": "#d7a755",
+    "shape": "fish",
+    "richness": 2,
+    "texture": "Firm flakes",
+    "cook": "Grill",
+    "pairings": [
+      "Lime",
+      "Chili",
+      "Mango"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Troll, handline, or longline",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Prefer U.S. troll or handline-caught mahi mahi; avoid imported longline-caught fish when origin is unclear.",
+    "kind": "Fish",
+    "regions": {
+      "CA_BAJA": {
+        "peak": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/mahi-mahi-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "GULF_SOUTH": {
+        "peak": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/mahi-mahi-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "sardine",
+    "name": "Pacific sardine",
+    "scientificName": "Sardinops sagax",
+    "tagline": "Oily, bright, and richly savory.",
+    "color": "#8a9da5",
+    "shape": "fish",
+    "richness": 2,
+    "texture": "Oily & tender",
+    "cook": "Broil",
+    "pairings": [
+      "Tomato",
+      "Olive oil",
+      "Parsley"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Purse seine",
+    "sustainability": "Good choice",
+    "sustainabilityNote": "Prefer responsibly managed U.S. or Canadian fisheries and check the current regional guide.",
+    "kind": "Fish",
+    "regions": {
+      "PNW_AK": {
+        "peak": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/sardine-anchovy-herring-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "CA_BAJA": {
+        "peak": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/sardine-anchovy-herring-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "herring",
+    "name": "Atlantic herring",
+    "scientificName": "Clupea harengus",
+    "tagline": "Oily, mineral, and deeply savory.",
+    "color": "#718c9b",
+    "shape": "fish",
+    "richness": 2,
+    "texture": "Oily & tender",
+    "cook": "Smoke",
+    "pairings": [
+      "Mustard",
+      "Pickle",
+      "Potato"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Purse seine or gillnet",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Buy from a managed local fishery with clear origin; regional stock status changes.",
+    "kind": "Fish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/sardine-anchovy-herring-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "shrimp",
+    "name": "White shrimp",
+    "scientificName": "Litopenaeus setiferus",
+    "tagline": "Sweet, springy, and clean.",
+    "color": "#df9a82",
+    "shape": "prawn",
+    "richness": 1,
+    "texture": "Springy & sweet",
+    "cook": "Sauté",
+    "pairings": [
+      "Garlic",
+      "Lime",
+      "Butter"
+    ],
+    "sourceType": "Mixed",
+    "harvestMethod": "Trawl or pond farm",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Prefer U.S. wild shrimp or well-managed farmed shrimp with transparent country and method; avoid unlabeled imports.",
+    "kind": "Shellfish",
+    "regions": {
+      "GULF_SOUTH": {
+        "peak": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/shrimp-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "CA_BAJA": {
+        "peak": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/shrimp-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "tuna",
+    "name": "Skipjack tuna",
+    "scientificName": "Katsuwonus pelamis",
+    "tagline": "Meaty, clean, and ocean-rich.",
+    "color": "#547fa0",
+    "shape": "fish",
+    "richness": 3,
+    "texture": "Firm & rich",
+    "cook": "Sear",
+    "pairings": [
+      "Sesame",
+      "Ginger",
+      "Citrus"
+    ],
+    "sourceType": "Wild caught",
+    "harvestMethod": "Pole-and-line, troll, or purse seine",
+    "sustainability": "Varies by source",
+    "sustainabilityNote": "Buy pole-and-line or FAD-free options where available; tuna ratings change sharply by gear and ocean.",
+    "kind": "Fish",
+    "regions": {
+      "CA_BAJA": {
+        "peak": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/tuna-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "JP_SEAS": {
+        "peak": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/tuna-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "tilapia",
+    "name": "Tilapia",
+    "scientificName": "Oreochromis niloticus",
+    "tagline": "Mild, moist, and adaptable.",
+    "color": "#a9a372",
+    "shape": "fish",
+    "richness": 1,
+    "texture": "Firm flakes",
+    "cook": "Pan roast",
+    "pairings": [
+      "Ginger",
+      "Scallion",
+      "Lime"
+    ],
+    "sourceType": "Farm raised",
+    "harvestMethod": "Pond or recirculating farm",
+    "sustainability": "Good choice",
+    "sustainabilityNote": "Prefer transparent farms from countries listed by Seafood Watch; farming systems matter more than species alone.",
+    "kind": "Fish",
+    "regions": {
+      "GULF_SOUTH": {
+        "peak": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/tilapia-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "CA_BAJA": {
+        "peak": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/tilapia-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  },
+  {
+    "id": "mussel",
+    "name": "Blue mussel",
+    "scientificName": "Mytilus edulis",
+    "tagline": "Briny, sweet, and ocean-clean.",
+    "color": "#405f67",
+    "shape": "shell",
+    "richness": 1,
+    "texture": "Tender & briny",
+    "cook": "Steam",
+    "pairings": [
+      "Garlic",
+      "White wine",
+      "Parsley"
+    ],
+    "sourceType": "Farm raised",
+    "harvestMethod": "Rope or bottom culture",
+    "sustainability": "Good choice",
+    "sustainabilityNote": "Farmed mussels are generally a strong choice; confirm local farm practices and harvest area.",
+    "kind": "Shellfish",
+    "regions": {
+      "NE_NY": {
+        "peak": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/clams-mussels-oysters-scallops-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      },
+      "PNW_AK": {
+        "peak": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "available": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "source": "https://www.montereybayaquarium.org/animals-the-ocean/how-to-choose-sustainable-seafood/sustainable-seafood-guides/clams-mussels-oysters-scallops-buying-guide",
+        "checkedAt": "2026-11-05",
+        "note": "Editorial baseline from the linked fishery profile; local landings and legal seasons vary by stock, area, gear, and quota."
+      }
+    }
+  }
+]
